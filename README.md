@@ -1,2 +1,2 @@
-# Notes of Web Crwaling
-## Record of every detail while crwaling 
+# Notes of Web Crawling
+## Record of every detail while crawling 
